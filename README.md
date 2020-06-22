@@ -1,2 +1,2 @@
-# LessonMaterials
+# Lesson Materials
 Open Sourced Materials
