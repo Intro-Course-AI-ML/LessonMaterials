@@ -1,4 +1,2 @@
 # Lesson Materials
-Open Sourced Materials
-
-Testing the open sourced material
+Open Sourced Materials for the Intro to AI Course
