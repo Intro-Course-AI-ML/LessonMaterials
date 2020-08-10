@@ -1,4 +1,4 @@
-# Lesson Materials
+# Intro to AI Course
 Open Sourced Materials for the Intro to AI Course
 
 Week 1: https://www.youtube.com/watch?v=3O0umGVjwW8&feature=youtu.be
