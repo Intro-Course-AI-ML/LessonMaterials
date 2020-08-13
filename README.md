@@ -1,7 +1,7 @@
 # Intro to AI Course
 Open Sourced Materials for the Intro to AI Course
 
-Summer 2020, June 23 - August 11 2020, 8 classes, once every week on Tuesdays.
+Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
 
 The Intro to AI course is a free course for middle school students to gain a basic understanding of Artificial Intelligence and Machine Learning. Throughout 8 weeks, Ayaan Haque and Viraaj Reddi covered various machine learning topics, from the mathematical theory to neural networks to NLP. By open sourcing these materials, we hope that others can begin guiding young students into the field of AI/ML. 
 
