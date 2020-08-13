@@ -1,6 +1,12 @@
 # Intro to AI Course
 Open Sourced Materials for the Intro to AI Course
 
+Summer 2020, June 23 - August 11 2020, 8 classes, once every week on Tuesdays.
+
+To use the lessons, follow the presentations/notebooks in order, and watch the video associated with the lesson.
+
+**Note:** Weeks 7 and 8 were for individual projects, so the videos aren't provided. 
+
 Week 1: https://www.youtube.com/watch?v=3O0umGVjwW8&feature=youtu.be
 
 Week 2: Currently Unavailable
