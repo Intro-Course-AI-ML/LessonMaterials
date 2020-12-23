@@ -13,6 +13,7 @@
 
 # misc
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 .DS_Store
 .env.development.local
 .env.test.local
