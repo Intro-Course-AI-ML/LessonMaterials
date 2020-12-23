@@ -6,7 +6,7 @@ This is a detailed repository for an introductory AI and Machine Learning course
 
 To use this repository, follow the order of notebooks/presentations. This course can be completed over any period of time, but it is recommended that the notebooks are completed in order. The examples are coded primarly with Sci-kit (traditional machine learning algorithms) and Keras (Deep Learning/Neural Networks). A background in coding and python is highly recommended, but not entirely necessary. 
 
-**Please star this repo if you found it helpful! If you want to use this repository, please fork it to get the materials.** This will help us with exposure and growing our course.
+**Please star this repo if you found it helpful! If you want to use this repository, please fork it to get the materials.** This will help us with exposure and growing our course. If you would like to join the organization to add your own repository with code, please email us! (ayaanzhaque@gmail.com, viraajreddi@gmail.com)
 
 ## Intro to AI Course Summer 2020
 
