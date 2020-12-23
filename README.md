@@ -2,6 +2,8 @@
 
 Open Sourced Materials for the Intro to AI Course
 
+Medium Article on the course: https://medium.com/better-programming/how-to-teach-ai-and-ml-to-middle-schoolers-34bf59262ea8
+
 This is a detailed repository for an introductory AI and Machine Learning course for complete beginners. The course begins by covering the basics of AI and Machine Learning, and has lots of code and notebook examples. The course covers standard machine learning algorithms and progresses to building full-scale deep neural networks. By the end of the course, you will be able to build your own machine learning algorithms and deep neural networks and complete many different types of projects. At the end of the course, we have a variety of to explore, ranging from topics of image classification, time series analysis, and natural langauge processing. 
 
 To use this repository, follow the order of notebooks/presentations. This course can be completed over any period of time, but it is recommended that the notebooks are completed in order. The examples are coded primarly with Sci-kit (traditional machine learning algorithms) and Keras (Deep Learning/Neural Networks). A background in coding and python is highly recommended, but not entirely necessary. 
