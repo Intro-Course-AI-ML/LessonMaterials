@@ -10,6 +10,12 @@ To use this repository, follow the order of notebooks/presentations. This course
 
 **Please star this repo if you found it helpful! If you want to use this repository, please fork it to get the materials.** This will help us with exposure and growing our course. If you would like to join the organization to add your own repository with code, please email us! (ayaanzhaque@gmail.com, viraajreddi@gmail.com)
 
+## Lesson Videos
+
+Here are pre-recorded lectures for each of the 6 lessons. Watch them in order, and whenever there are code examples, just open up the notebook and follow along.
+
+Overview of AI/ML (Lesson 1): https://youtu.be/pWXR7kh_65g
+
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
