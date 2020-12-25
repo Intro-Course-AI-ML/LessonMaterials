@@ -16,6 +16,8 @@ Here are pre-recorded lectures for each of the 6 lessons. Watch them in order, a
 
 Overview of AI/ML (Lesson 1): https://youtu.be/pWXR7kh_65g
 
+Machine Learning Theory (Lesson 2): https://youtu.be/RHcKxr0cbj4
+
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
