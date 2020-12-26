@@ -14,9 +14,13 @@ To use this repository, follow the order of notebooks/presentations. This course
 
 Here are pre-recorded lectures for each of the 6 lessons. Watch them in order, and whenever there are code examples, just open up the notebook and follow along.
 
+The entire playlist is here: https://www.youtube.com/playlist?list=PLWj-3LXfs4r0pD_fzYXUa2PFJ5JHKwaaW
+
 Overview of AI/ML (Lesson 1): https://youtu.be/pWXR7kh_65g
 
 Machine Learning Theory (Lesson 2): https://youtu.be/RHcKxr0cbj4
+
+Deep Learning Theory and Concepts (Lesson 3): https://youtu.be/8oROUOisDzI
 
 ## Intro to AI Course Summer 2020
 
