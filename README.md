@@ -22,6 +22,8 @@ Machine Learning Theory (Lesson 2): https://youtu.be/RHcKxr0cbj4
 
 Deep Learning Theory and Concepts (Lesson 3): https://youtu.be/8oROUOisDzI
 
+CNN Theory (Lesson 4): https://youtu.be/0RFPyCBoa20
+
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
