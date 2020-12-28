@@ -24,6 +24,8 @@ Deep Learning Theory and Concepts (Lesson 3): https://youtu.be/8oROUOisDzI
 
 CNN Theory (Lesson 4): https://youtu.be/0RFPyCBoa20
 
+CNN and NN Examples in Keras (Lesson 5): https://youtu.be/pGWwDAiB3Ic
+
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
