@@ -26,6 +26,8 @@ CNN Theory (Lesson 4): https://youtu.be/0RFPyCBoa20
 
 CNN and NN Examples in Keras (Lesson 5): https://youtu.be/pGWwDAiB3Ic
 
+Natural Language Processing Theory and Examples (Lesson 6): https://youtu.be/y6swv4_Gh_U
+
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
