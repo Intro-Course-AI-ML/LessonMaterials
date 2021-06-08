@@ -1,4 +1,4 @@
-# Introductory AI Course
+# Intro to AI Course
 
 Open Sourced Materials for the Intro to AI Course
 
