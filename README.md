@@ -34,21 +34,19 @@ Summer 2021, June 20 - August 8, 8 classes once every week on Sundays 3 PM.
 
 Videos to come!
 
-Week 1: (Introduction)
+Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
 
-Week 2: (TBA)
+Week 2: Overview of Machine Learning Concepts
 
-Week 3: (TBA)
+Week 3: Machine Learning Code
  
-Week 4: (TBA)
+Week 4: Overview of Deep Learning
 
-Week 5: (TBA)
+Week 5: Convolutional Neural Networks
 
-Week 6: (TBA)
+Week 6: Keras CNN Walkthrough
 
-Week 7: (TBA)
-
-Week 8: (TBA)
+Weeks 7-8: Projects
 
 ## Intro to AI Course Summer 2020
 
