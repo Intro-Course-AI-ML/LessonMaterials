@@ -73,3 +73,9 @@ Week 5: https://www.youtube.com/watch?v=UvsA06Bz7mo&feature=youtu.be (Building a
 Week 6: Currently Unavailable (Introduction to Natural Language Processing)
 
 Week 7-8: Worked on Projects(No Video)
+
+## Contact
+
+Email us at: 
+- ayaanzhaque@gmail.com
+- viraajreddi@gmail.com
