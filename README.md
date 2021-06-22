@@ -36,7 +36,7 @@ Summer 2021, June 20 - August 8, 8 classes once every week on Sundays 4 PM.
 
 Videos to come!
 
-Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
+Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML): https://youtu.be/UVlpiSfU9QA?t=4306
 
 Week 2: Overview of Machine Learning Concepts
 
