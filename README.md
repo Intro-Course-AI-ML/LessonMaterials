@@ -32,7 +32,7 @@ Natural Language Processing Theory and Examples (Lesson 6): https://youtu.be/y6s
 
 ## Intro to AI Course Summer 2021
 
-Summer 2021, June 20 - August 8, 8 classes once every week on Sundays 4 PM.
+Summer 2021, June 20 - TBA, 8 classes once every week on Sundays 4 PM.
 
 Videos to come!
 
