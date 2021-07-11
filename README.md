@@ -30,26 +30,6 @@ CNN and NN Examples in Keras (Lesson 5): https://youtu.be/pGWwDAiB3Ic
 
 Natural Language Processing Theory and Examples (Lesson 6): https://youtu.be/y6swv4_Gh_U
 
-## Intro to AI Course Summer 2021
-
-Summer 2021, June 20 - TBA, 8 classes once every week on Sundays 4 PM.
-
-Videos to come!
-
-Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML): https://youtu.be/UVlpiSfU9QA?t=4306
-
-Week 2: Overview of Machine Learning Concepts
-
-Week 3: Machine Learning Code
- 
-Week 4: Overview of Deep Learning
-
-Week 5: Convolutional Neural Networks
-
-Week 6: Keras CNN Walkthrough
-
-Weeks 7-8: Projects
-
 ## Intro to AI Course Summer 2020
 
 Summer 2020, June 23 - August 11, 8 classes once every week on Tuesdays 5 PM.
@@ -73,6 +53,26 @@ Week 5: https://www.youtube.com/watch?v=UvsA06Bz7mo&feature=youtu.be (Building a
 Week 6: Currently Unavailable (Introduction to Natural Language Processing)
 
 Week 7-8: Worked on Projects(No Video)
+
+## Intro to AI Course Summer 2021
+
+Summer 2021, June 20 - TBA, 8 classes once every week on Sundays 4 PM.
+
+Videos to come!
+
+Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML): https://youtu.be/UVlpiSfU9QA?t=4306
+
+Week 2: Overview of Machine Learning Concepts
+
+Week 3: Machine Learning Code
+ 
+Week 4: Overview of Deep Learning
+
+Week 5: Convolutional Neural Networks
+
+Week 6: Keras CNN Walkthrough
+
+Weeks 7-8: Projects
 
 ## Contact
 
