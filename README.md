@@ -1,6 +1,6 @@
 # Intro to AI Course
 
-Gogole Form to Join Repo: https://docs.google.com/forms/d/e/1FAIpQLSct5MnU5OO5B92_z7N8IhoHpLqudl1Q74hOrnIMKxs_FvXvBg/viewform
+**Google Form to Join Repo**: https://docs.google.com/forms/d/e/1FAIpQLSct5MnU5OO5B92_z7N8IhoHpLqudl1Q74hOrnIMKxs_FvXvBg/viewform
 
 Open Sourced Materials for the Intro to AI Course
 
