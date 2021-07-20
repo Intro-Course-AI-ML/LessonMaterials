@@ -1,7 +1,5 @@
 # Intro to AI Course
 
-**Google Form to Join Repo**: https://docs.google.com/forms/d/e/1FAIpQLSct5MnU5OO5B92_z7N8IhoHpLqudl1Q74hOrnIMKxs_FvXvBg/viewform
-
 Open Sourced Materials for the Intro to AI Course
 
 Medium Article on the course: https://medium.com/better-programming/how-to-teach-ai-and-ml-to-middle-schoolers-34bf59262ea8
