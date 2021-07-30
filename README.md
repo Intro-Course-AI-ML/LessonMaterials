@@ -54,11 +54,9 @@ Week 7-8: Worked on Projects(No Video)
 
 ## Intro to AI Course Summer 2021
 
-Summer 2021, June 20 - TBA, 8 classes once every week on Sundays 4 PM.
+Summer 2021, June 20 - August 15, 8 classes once every week on Sundays 4 PM.
 
-Videos to come!
-
-Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML): https://youtu.be/UVlpiSfU9QA?t=4306
+Week 1: Introduction to Artificial Intelligence (AI) and Machine Learning (ML)
 
 Week 2: Overview of Machine Learning Concepts
 
